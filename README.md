@@ -1,5 +1,5 @@
 # MOOCbase
-This repo contains the semester long cumulative project for the course CS186 (Introduction to Database Systems). Spread out over 5 projects over the semester, we implemented a fully functional database system, adding support for B+ tree indices, efficient join algorithms, query optimization, multigranularity locking to support concurrent execution of transactions, and database recovery.
+This repo contains the semester long cumulative project for the course CS186 (Introduction to Database Systems) during the Fall 2020 semester. Spread out over 6 projects over the semester, we implemented a fully functional database system, adding support for B+ tree indices, efficient join algorithms, query optimization, multigranularity locking to support concurrent execution of transactions, and database recovery.
 
 Project 1: SQL
 	In this project we will be working with the commonly-used Lahman baseball statistics database (our friends at the San Francisco Giants tell us they use it!) The database contains pitching, hitting, and fielding statistics for Major League Baseball from 1871 through 2019. The scope of the project involves writing SQL queries to extract data and populate views with required tuples.
