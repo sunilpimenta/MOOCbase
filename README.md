@@ -1,0 +1,2 @@
+# MOOCbase
+This repo contains the semester long cumulative project for the course CS186 (Introduction to Database Systems). Spread out over 5 projects over the semester, we implemented a fully functional database system, adding support for B+ tree indices, efficient join algorithms, query optimization, multigranularity locking to support concurrent execution of transactions, and database recovery.
